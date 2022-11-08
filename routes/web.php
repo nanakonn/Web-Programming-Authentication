@@ -23,9 +23,9 @@ Route::get('/', function () {
     return view('home');
 });
 
-// Route::get('view', function () {
-//     return view('cars');
-// });
+Route::get('/', function () {
+    return view('about');
+});
 
 Route::get('/cars', [NurburgringtrackController::class,'index']);
 

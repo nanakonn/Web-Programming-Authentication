@@ -3,7 +3,12 @@
 
 <style>
     .nurburgringtrack{
-        padding: 125px 140px;
+        padding: 190px 220px;
+        background-color: lightgray;
+    }
+
+    .track{
+        color: darkred;
     }
 </style>
 

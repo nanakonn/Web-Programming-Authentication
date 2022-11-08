@@ -12,6 +12,9 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="/cars" style="color: white">Record List</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/about" style="color: white">About Us</a>
+          </li>
         </ul>
       </div>
     </div>
