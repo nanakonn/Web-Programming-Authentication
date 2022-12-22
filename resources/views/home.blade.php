@@ -8,7 +8,8 @@
     background-size: cover;">
 
     <div class="position-absolute top-50 start-50 translate-middle" >
-        <h1 style="color: rgb(246, 246, 246)">Welcome to Nurburgring Record Holder</h1>
+        <h1 style="color: rgb(246, 246, 246)">Welcome to Nurburgring Record Holder,</h1>
+        <h1 style="color: rgb(246, 246, 246)" class="text-center mb-3">{{auth()->user()->name}}</h1>
          <div class="col-md-12 text-center">
              <a href= "/cars" type="button" class="btn btn-danger">See List</a>
          </div>

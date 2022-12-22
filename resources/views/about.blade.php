@@ -22,8 +22,6 @@
 
         </style>
 
-
-
         <div class="container">
         <div class="container text-center">
             <div class="row">
